@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Threading;
 
@@ -35,19 +35,20 @@ namespace PrimeCounterThreads
             for (int i = start; i <= end; i++)
             {
                 bool found = IsPrime(i);
-
-                syncWrapper(() =>
+                if (found || i % 100 == 0)
                 {
-                    Console.SetCursorPosition(0, threadId);
-                    Console.Write($"Поток {threadId} | Число: {i,-5}");
-
-                    if (found)
+                    syncWrapper(() =>
                     {
-                        totalPrimeCount++;
-                        Console.SetCursorPosition(30, threadId);
-                        Console.Write($"| Последнее простое число: {i,-5}");
-                    }
-                });
+                        Console.SetCursorPosition(0, threadId);
+                        Console.Write($"Поток {threadId} | Число: {i,-5}");
+                        if (found)
+                        {
+                            totalPrimeCount++;
+                            Console.SetCursorPosition(30, threadId);
+                            Console.Write($"| Последнее простое число: {i,-5}");
+                        }
+                    });
+                }
             }
         }
 
