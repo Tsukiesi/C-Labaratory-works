@@ -1,0 +1,16 @@
+D:\Codes\Labs_C#\Laba3\Laba3\bin\Debug\net8.0\Laba3.exe
+D:\Codes\Labs_C#\Laba3\Laba3\bin\Debug\net8.0\Laba3.deps.json
+D:\Codes\Labs_C#\Laba3\Laba3\bin\Debug\net8.0\Laba3.runtimeconfig.json
+D:\Codes\Labs_C#\Laba3\Laba3\bin\Debug\net8.0\Laba3.dll
+D:\Codes\Labs_C#\Laba3\Laba3\bin\Debug\net8.0\Laba3.pdb
+D:\Codes\Labs_C#\Laba3\Laba3\obj\Debug\net8.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Labs_C#\Laba3\Laba3\obj\Debug\net8.0\Laba3.AssemblyInfoInputs.cache
+D:\Codes\Labs_C#\Laba3\Laba3\obj\Debug\net8.0\Laba3.AssemblyInfo.cs
+D:\Codes\Labs_C#\Laba3\Laba3\obj\Debug\net8.0\Laba3.csproj.CoreCompileInputs.cache
+D:\Codes\Labs_C#\Laba3\Laba3\obj\Debug\net8.0\Laba3.dll
+D:\Codes\Labs_C#\Laba3\Laba3\obj\Debug\net8.0\refint\Laba3.dll
+D:\Codes\Labs_C#\Laba3\Laba3\obj\Debug\net8.0\Laba3.pdb
+D:\Codes\Labs_C#\Laba3\Laba3\obj\Debug\net8.0\Laba3.genruntimeconfig.cache
+D:\Codes\Labs_C#\Laba3\Laba3\obj\Debug\net8.0\ref\Laba3.dll
+D:\Codes\Labs_C#\Laba3\Laba3\bin\Debug\net8.0\data.csv
+D:\Codes\Labs_C#\Laba3\Laba3\bin\Debug\net8.0\data.json
